@@ -24,4 +24,48 @@ clflush size	: 64
 cache_alignment	: 64
 address sizes	: 39 bits physical, 48 bits virtual
 power management:
-
+MemTotal:        1882300 kB
+MemFree:          274472 kB
+MemAvailable:     731532 kB
+Buffers:              20 kB
+Cached:           598116 kB
+SwapCached:         1348 kB
+Active:           511324 kB
+Inactive:         728096 kB
+Active(anon):     218088 kB
+Inactive(anon):   493820 kB
+Active(file):     293236 kB
+Inactive(file):   234276 kB
+Unevictable:           0 kB
+Mlocked:               0 kB
+SwapTotal:       2098172 kB
+SwapFree:        2094332 kB
+Dirty:                32 kB
+Writeback:             0 kB
+AnonPages:        639988 kB
+Mapped:           121572 kB
+Shmem:             70624 kB
+Slab:             205016 kB
+SReclaimable:     117024 kB
+SUnreclaim:        87992 kB
+KernelStack:        8144 kB
+PageTables:        36560 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     3039320 kB
+Committed_AS:    4522328 kB
+VmallocTotal:   34359738367 kB
+VmallocUsed:       28512 kB
+VmallocChunk:   34359705592 kB
+HardwareCorrupted:     0 kB
+AnonHugePages:    186368 kB
+CmaTotal:              0 kB
+CmaFree:               0 kB
+HugePages_Total:       0
+HugePages_Free:        0
+HugePages_Rsvd:        0
+HugePages_Surp:        0
+Hugepagesize:       2048 kB
+DirectMap4k:      116672 kB
+DirectMap2M:     1980416 kB
